@@ -10,7 +10,7 @@ elements included are:
 - title
 - h1
 - img scr
-- a ref
+- a href=""
 - ul ol li
 - button to redirect to the other web
 -- target=_blank for new tab
